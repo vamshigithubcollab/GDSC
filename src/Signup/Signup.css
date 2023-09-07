@@ -1,0 +1,24 @@
+.Head{
+    text-align: center;
+    margin-top:50px;
+}
+.Login
+{
+    border-style:outset;
+    
+}
+.LoginFooter
+{
+    text-align: center;
+
+}
+.link-style {
+    text-decoration: none;
+    color: #007bff; /* Blue color */
+    cursor: pointer;
+  }
+  
+  .link-style:hover {
+    text-decoration: underline;
+  }
+  
